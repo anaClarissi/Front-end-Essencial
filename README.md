@@ -71,7 +71,7 @@ Estudante de Informática
 
 ## 🎓 Certificado
 
-👉 [Ver certificado de conclusão](assets/certificado.png)
+![Certificado de conclusão](assets/certificado.png)
 
 ---
 
